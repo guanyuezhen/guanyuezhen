@@ -2,6 +2,8 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/guanyuezhen/count.svg) visitor
 
+I am a Ph.D. student in School of Computer Science, China University of Geosciences, Wuhan (CUG), since 2021, supervised by Prof. Chang Tang. Before that, I received B.S. and M.S. from China University of Geosciences, Wuhan, in 2018 and 2021, respectively.
+
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=guanyuezhen&show_icons=true&count_private=true&theme=light" width="350"></a>
 </p>
