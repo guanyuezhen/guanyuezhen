@@ -1,6 +1,6 @@
 ###  Hi 👋, I'm guanyuezhen
 
-My ![Visitor Count](https://profile-counter.glitch.me/huuuuusy/count.svg) visitor
+My ![Visitor Count](https://profile-counter.glitch.me/guanyuezhen/count.svg) visitor
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=guanyuezhen&show_icons=true&count_private=true&theme=light" width="350"></a>
