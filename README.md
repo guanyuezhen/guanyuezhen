@@ -2,7 +2,11 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/guanyuezhen/count.svg) visitor
 
-I am a Ph.D. student in School of Computer Science, China University of Geosciences, Wuhan (CUG), since 2021, supervised by Prof. Chang Tang. Before that, I received B.S. and M.S. from China University of Geosciences, Wuhan, in 2018 and 2021, respectively.
+I am an assistant professor at the Faculty of Data Science, City University of Macau (CityU Macau).
+
+- Ph.D. degree in Geo-information Engineering supervised by Prof. Chang Tang from the School of Computer Science, China University of Geosciences, Wuhan (CUG), 09/2021 - 06/2024.
+- M.S. degree in Computer Technology supervised by Prof. Chang Tang from the School of Computer Science, China University of Geosciences, Wuhan (CUG), 09/2018 - 06/2021.
+- B.E. degree in Exploration Technology and Engineering from the School of Geophysics and Geomatics, China University of Geosciences, Wuhan (CUG), 09/2014 - 06/2018.
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=guanyuezhen&show_icons=true&count_private=true&theme=light" width="350"></a>
