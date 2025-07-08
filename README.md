@@ -2,8 +2,9 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/guanyuezhen/count.svg) visitor
 
-I am an assistant professor at the Faculty of Data Science, City University of Macau (CityU Macau).
+I am a Postdoctoral Research Fellow at the Institute of Advanced Computing and Digital Engineering, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, supervised by Prof. He Sun, 07/2024 - present.
 
+- Assistant Professor at the Faculty of Data Science, City University of Macau (CityU Macau), 08/2024 - 06/2025.
 - Ph.D. degree in Geo-information Engineering supervised by Prof. Chang Tang from the School of Computer Science, China University of Geosciences, Wuhan (CUG), 09/2021 - 06/2024.
 - M.S. degree in Computer Technology supervised by Prof. Chang Tang from the School of Computer Science, China University of Geosciences, Wuhan (CUG), 09/2018 - 06/2021.
 - B.E. degree in Exploration Technology and Engineering from the School of Geophysics and Geomatics, China University of Geosciences, Wuhan (CUG), 09/2014 - 06/2018.
